@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Yoga Guide</string>
+
+    <string name="home_header">Yoga For All</string>
+    <string name="home_desc">Are you ready to roll out your mat for the first time? We\'ve got everything you need to know to get started with this mind-body practice. You don’t do yoga because you’re flexible—you do it to become more flexible (in your body and your life). Consider this your go-to resource on yoga for beginners.</string>
+
+    <string name="padmasana">Padmasana</string>
+    <string name="padmasana_text">Lotus position or Padmasana (Sanskrit: पद्मासन, romanized: padmāsana) is a cross-legged sitting meditation pose from ancient India, in which each foot is placed on the opposite thigh. It is an ancient asana in yoga, predating hatha yoga, and is widely used for meditation in Hindu, Tantra, Jain, and Buddhist traditions.</string>
+    
+    <string name="chakrasana">Chakrasana</string>
+    <string name="chakrasana_text">Chakrasana (Sanskrit: चक्रासन, romanized: Cakrāsana, Wheel Pose) or Urdhva Dhanurasana (Sanskrit: ऊर्ध्वधनुरासन, romanized: Ūrdhvadhanurāsana, Upward-Facing Bow Pose) is an asana in yoga as exercise. It is a backbend and is the first pose of the finishing sequence in Ashtanga Vinyasa Yoga. It gives great flexibility to the spine.</string>
+    
+    <string name="halasana">Halasana</string>
+    <string name="halsana_text">Halasana (Sanskrit: हलासन; IAST: halāsana) or Plough pose is an inverted asana in hatha yoga and modern yoga as exercise. The arms are stretched out on the ground away from the feet, giving the final pose in the shape of a traditional plough.</string>
+    
+    <string name="bhujangasana">Bhujangasana</string>
+    <string name="bhujangasana_text">Bhujangasana (Sanskrit: भुजंगासन; IAST: Bhujaṅgāsana) or Cobra Pose is a reclining back-bending asana in hatha yoga and modern yoga as exercise. The palms are placed under the shoulders, pushing down until the hips lift slightly. The backs of the feet rest on the ground, the legs outstretched; the gaze is directed forward.</string>
+
+</resources>
